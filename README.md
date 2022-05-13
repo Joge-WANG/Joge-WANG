@@ -1,5 +1,9 @@
 ![Metrics](https://metrics.lecoq.io/Joge-WANG?template=classic&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
 
+<span > 
+  <img src="https://img.shields.io/badge/language-C/C++/QT-green?style=flat-square" /> 
+</span>
+
 <!--
 **Joge-WANG/Joge-WANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
