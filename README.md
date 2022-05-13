@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/Joge-WANG?template=classic&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
 
 <!--
 **Joge-WANG/Joge-WANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
